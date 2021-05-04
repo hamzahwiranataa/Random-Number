@@ -1,1 +1,2 @@
-# Random-Number
+$ cd RandNomor
+$ python RandNomor.py
