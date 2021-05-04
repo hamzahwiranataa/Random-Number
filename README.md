@@ -1,2 +1,2 @@
-$ cd RandNomor
+$ cd RandNomor <br>
 $ python RandNomor.py
