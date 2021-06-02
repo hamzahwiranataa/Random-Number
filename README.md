@@ -1,7 +1,7 @@
 # Random Number System
-<br>
+
 Python Harus Versi 3.6.1 <br>
-<br>
+
 # Cara Menjalankan File Tersebut
 
 1.Buka Terminal <br>
